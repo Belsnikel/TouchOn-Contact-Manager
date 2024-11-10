@@ -1,5 +1,31 @@
-# Vue 3 + TypeScript + Vite
+# TouchOn-Contact-Manager
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- **Node.js** версии `v18.20.4`
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+### Основные команды
+
+| Команда             | Описание                                                    |
+|---------------------|-------------------------------------------------------------|
+| `npm install`       | Устанавливает зависимости, указанные в `package.json`.      |
+| `npm run dev`       | Запускает проект в режиме разработки.                       |
+| `npm run build`     | Собирает проект для продакшн в папку `dist`.                |
+| `npm run preview`   | Запускает сервер для предварительного просмотра сборки.     |
+
+### Комментарий
+
+### Используемые инструменты
+
+- **Vue**
+- **Vite**
+- **axios**
+- **lodash.debounce**
+- **prettier**
+- **vue-jest**
+
+### Особенности проекта
+- Минимальное использование сторонних библиотек, упор на нативные возможности Vue и JavaScript.
+- Реализована валидация форм с использованием реактивных свойств Vue.
+
+### Благодарность за фидбэк
+
+Буду благодарен за любой фидбэк от разработчиков, который поможет мне развиваться как инженеру и совершенствовать качество проектов.
